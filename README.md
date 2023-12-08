@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Daniel-Atlas-Zhang-Chenhua
-- 👋 I'm fron China and I'm not good at English
-- 👀 I’m interested in Minecraft and programs
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zhang-Chenhua
 
 <!---
 Daniel-Atlas-Zhang-Chenhua/Daniel-Atlas-Zhang-Chenhua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
